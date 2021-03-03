@@ -5,6 +5,7 @@
 ```
 $ git clone https://github.com/SedatBasaran14/BookWebsite.git
 $ cd BookWebsite
+$ Npm install
 
 ```
 ### `npm start`
